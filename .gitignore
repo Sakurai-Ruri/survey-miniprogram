@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+.taro/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+project.private.config.json
+*.docx
+*.pdf
